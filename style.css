@@ -37,14 +37,14 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  background-color: #4CAF50;
+  background-color: #000000;
   color: white;
   border: none;
   border-radius: 4px;
 }
 
 button:hover {
-  background-color: #3e8e41;
+  background-color: #020d02;
 }
 
 table {
@@ -61,7 +61,7 @@ td {
 }
 
 th {
-  background-color: #4CAF50;
+  background-color: #101410;
   color: white;
 }
 
